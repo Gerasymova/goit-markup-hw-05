@@ -59,6 +59,10 @@ button:focus {
   outline: none;
   border: none;
 }
+img {
+  max-width: 100%;
+  height: auto;
+}
 
 .list {
   padding: 0;
