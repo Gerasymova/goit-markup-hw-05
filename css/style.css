@@ -155,6 +155,8 @@ img {
 .contacts-list .link:hover,
 .contacts-list .link:focus {
   color: var(--accent-color);
+  transition: cubic-bezier(0.4, 0, 0.2, 1);
+  transition: duration 250ms; ;
  }
 .contacts-list {
   margin-left: auto;
